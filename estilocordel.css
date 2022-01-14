@@ -20,13 +20,13 @@ footer{background: black; color: white; padding: 20px; text-align: center; font-
 
 @media(max-width:600px){
 
-header{background: black; color: white; padding: 50px; text-align: center; font-family: 'Anton', sans-serif; font-size: 20px; }
+header{padding: 50px; font-size: 20px; }
 
-section#s1{background:white; padding: 10px;}
-section#s2{background: url(imagens/cidade.jpg) center center fixed; background-size: cover; height: 40vh; padding: 20px;}
-section#s3{background: url(imagens/folha.jpg) center center fixed; background-size: cover; height: 40vh; padding: 20px;}
+section#s1{padding: 10px;}
+section#s2{height: 40vh; padding: 20px;}
+section#s3{height: 40vh; padding: 20px;}
 
 section p{max-width: 550px; font-size: 20px; padding: 10px; line-height: 40px;}
 
-footer{background: black; color: white; padding: 20px; text-align: center; font-size: 18px; font-family: 'Anton', sans-serif;}
+footer{padding: 20px; font-size: 18px;}
 }
